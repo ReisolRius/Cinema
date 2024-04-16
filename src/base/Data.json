@@ -3,7 +3,7 @@
         "id": "1",
         "title": "Мстители",
         "description": "Культовый фильм да",
-        "poster": "/img/heroes1.jpg",
+        "poster": "/Cinema/img/heroes1.jpg",
         "category": "fantasy",
         "type": "film"
     },
@@ -11,7 +11,7 @@
         "id": "2",
         "title": "Защитники",
         "description": "Я не уверен что надо писать",
-        "poster": "/img/heroes2.jpg",
+        "poster": "/Cinema/img/heroes2.jpg",
         "category": "badend",
         "type": "film"
         
@@ -20,7 +20,7 @@
         "id": "3",
         "title": "Доктор кто",
         "description": "Мы и сами не знаем кто емае",
-        "poster": "/img/heroes3.jpg",
+        "poster": "/Cinema/img/heroes3.jpg",
         "category": "detective",
         "type": "serial"
     },    
@@ -28,7 +28,7 @@
         "id": "3",
         "title": "Сверхестественное",
         "description": "норм сериал",
-        "poster": "/img/heroes4.jpg",
+        "poster": "/Cinema/img/heroes4.jpg",
         "category": "fantasy",
         "type": "serial"
         
@@ -37,7 +37,7 @@
         "id": "5",
         "title": "Доктор Хаус",
         "description": "Смотрел все сезоны",
-        "poster": "/img/heroes5.jpg",
+        "poster": "/Cinema/img/heroes5.jpg",
         "category": "detective",
         "type": "serial"
     }, 
@@ -45,7 +45,7 @@
         "id": "6",
         "title": "Во все тяжкие",
         "description": "Легенда",
-        "poster": "/img/heroes6.jpg",
+        "poster": "/Cinema/img/heroes6.jpg",
         "category": "detective",
         "type": "serial"
     },
@@ -53,7 +53,7 @@
         "id": "7",
         "title": "Мстители",
         "description": "Культовый фильм да",
-        "poster": "/img/heroes1.jpg",
+        "poster": "/Cinema/img/heroes1.jpg",
         "category": "fantasy",
         "type": "film"
     },
@@ -61,7 +61,7 @@
         "id": "8",
         "title": "Защитники",
         "description": "Я не уверен что надо писать",
-        "poster": "/img/heroes2.jpg",
+        "poster": "/Cinema/img/heroes2.jpg",
         "category": "badend",
         "type": "film"
         
@@ -70,7 +70,7 @@
         "id": "9",
         "title": "Доктор кто",
         "description": "Мы и сами не знаем кто емае",
-        "poster": "/img/heroes3.jpg",
+        "poster": "/Cinema/img/heroes3.jpg",
         "category": "detective",
         "type": "serial"
     },    
@@ -78,7 +78,7 @@
         "id": "10",
         "title": "Сверхестественное",
         "description": "норм сериал",
-        "poster": "/img/heroes4.jpg",
+        "poster": "/Cinema/img/heroes4.jpg",
         "category": "fantasy",
         "type": "serial"
         
@@ -87,7 +87,7 @@
         "id": "11",
         "title": "Доктор Хаус",
         "description": "Смотрел все сезоны",
-        "poster": "/img/heroes5.jpg",
+        "poster": "/Cinema/img/heroes5.jpg",
         "category": "detective",
         "type": "serial"
     }, 
@@ -95,7 +95,7 @@
         "id": "12",
         "title": "Во все тяжкие",
         "description": "Легенда",
-        "poster": "/img/heroes6.jpg",
+        "poster": "/Cinema/img/heroes6.jpg",
         "category": "detective",
         "type": "serial"
     }      

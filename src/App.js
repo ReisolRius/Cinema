@@ -93,8 +93,6 @@ function App() {
          ))}
       </div>
       <div className='categories'>
-          {/* <div className={activeType == this.id ? 'active-h' : '' } id='film' onClick={filterType}>Фильмы</div>
-          <div className={activeType == this.id ? 'active-h' : '' } id='serial' onClick={filterType}>Сериалы</div> */}
            {types.map(el => (
           <div className={activeType == el.category ? 'active-h' : '' } onClick={filterType} id={el.category} key={el.key}>{el.name}</div>
          ))}
