@@ -1,0 +1,17 @@
+[
+    {
+        "key": "000",
+        "category": "",
+        "name": "Все"
+    },
+    {
+        "key": "001",
+        "category": "film",
+        "name": "Фильмы"
+    },
+    {
+        "key": "002",
+        "category": "serial",
+        "name": "Сериалы"
+    }
+]

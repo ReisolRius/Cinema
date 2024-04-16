@@ -1,0 +1,22 @@
+[
+    {
+        "key": "00",
+        "category": "",
+        "name": "Все"
+    },
+    {
+        "key": "01",
+        "category": "fantasy",
+        "name": "Фентези"
+    },
+    {
+        "key": "02",
+        "category": "badend",
+        "name": "Трагедия"
+    },
+    {
+        "key": "03",
+        "category": "detective",
+        "name": "Детектив"
+    }
+]
